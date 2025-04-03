@@ -1,0 +1,10 @@
+rvu@rvu-OptiPlex-SFF-7020:~$ nano disk_info.sh
+ 
+rvu@rvu-OptiPlex-SFF-7020:~$ chmod +x disk_info.sh
+ 
+rvu@rvu-OptiPlex-SFF-7020:~$ ./disk_info.sh
+ 
+MODEL                     REVISION  SERIAL               DEVICE
+--------------------------------------------------------------------------
+2400A NVMe Micron 1024GB  24000104  2417489DA1C4         nvme0n1 
+

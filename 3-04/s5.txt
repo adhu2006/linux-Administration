@@ -1,0 +1,11 @@
+rvu@rvu-OptiPlex-SFF-7020:~$ nano kill_process.sh
+ 
+rvu@rvu-OptiPlex-SFF-7020:~$ chmod +x kill_process.sh
+ 
+rvu@rvu-OptiPlex-SFF-7020:~$ ./kill_process.sh <process_name>
+ 
+bash: syntax error near unexpected token `newline'
+rvu@rvu-OptiPlex-SFF-7020:~$ ./kill_process.sh firefox
+ 
+Process 'firefox' has been terminated.
+

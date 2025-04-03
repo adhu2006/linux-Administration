@@ -1,0 +1,10 @@
+rvu@rvu-OptiPlex-SFF-7020:~$ nano backup.sh
+ 
+rvu@rvu-OptiPlex-SFF-7020:~$ chmod +x backup.sh
+ 
+rvu@rvu-OptiPlex-SFF-7020:~$ ./backup.sh
+Backup directory created: ./backup
+Backup completed: All .txt files copied to ./backup
+rvu@rvu-OptiPlex-SFF-7020:~$ ls ~/backup
+'class TreeNode Represents.txt'   file.txt   Lab3.ex.txt   notes.txt   vim.txt
+

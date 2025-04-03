@@ -1,0 +1,7 @@
+rvu@rvu-OptiPlex-SFF-7020:~$ nano archive.sh
+ 
+rvu@rvu-OptiPlex-SFF-7020:~$ chmod +x archive.sh
+ 
+chmod: cannot access 'archive.sh': No such file or directory
+rvu@rvu-OptiPlex-SFF-7020:~$ ./archive.sh /path/to/directory
+
